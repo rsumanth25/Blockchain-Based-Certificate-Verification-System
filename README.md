@@ -12,7 +12,13 @@ The project demonstrates:
 - Blockchain-inspired security concepts
 
 ---
+## Academic Context
 
+This project was developed during my 6th semester as a mini project for the Blockchain Technology course. The primary objective was to understand and implement the core concepts of blockchain-inspired security, cryptographic hashing, and digital certificate verification using Java.
+
+Through this project, I explored how SHA-256 hashing can be used to ensure certificate authenticity, detect tampering, and provide a secure verification mechanism. The project served as a practical application of the concepts learned in the Blockchain Technology subject and helped strengthen my understanding of cybersecurity and secure software development.
+
+----
 # Features
 
 - Issue digital certificates
@@ -30,7 +36,7 @@ The project demonstrates:
 | Java | Application Development |
 | SHA-256 | Certificate Hashing |
 | ArrayList | Data Storage |
-| VS Code / IntelliJ | Development Environment |
+| VS Code | Development Environment |
 
 ---
 
@@ -88,7 +94,6 @@ git clone https://github.com/soundarya966/Blockchain-Based-Certificate-Verificat
 
 ## Step 2
 Open project in:
-- IntelliJ IDEA
 - VS Code
 
 ## Step 3
@@ -103,27 +108,6 @@ Main.java
 
 ---
 
-# Learning Outcomes
-
-This project helps understand:
-- Blockchain-inspired systems
-- Cryptographic hashing
-- Digital verification
-- Cybersecurity fundamentals
-- Java object-oriented programming
-
----
-
-# Future Enhancements
-
-- GUI using Java Swing
-- Database integration
-- QR Code verification
-- Blockchain integration
-- Web-based verification portal
-
----
-
 # Applications
 
 - Educational certificate verification
@@ -133,6 +117,3 @@ This project helps understand:
 
 ---
 
-# License
-
-This project is developed for educational purposes.
